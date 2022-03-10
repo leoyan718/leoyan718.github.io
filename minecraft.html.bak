@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Kangaroos</title>
+<title>Blender/Zbrush</title>
 <div class="container-fluid p-5 bg-danger text-warning text-center">
   <h1>Blender/Zbrush</h1>
   <p></p> 
@@ -25,8 +25,7 @@
 </ul> 
 </nav>
 <h1>Blender/ Z Brush projects</h1>
-<p>Most kangaroos are left handed.</p>
-<img src="Kangaroo facts.png" alt="kangaroofacts" width="1000" height="600">
+
 
 </body>
 </html>
