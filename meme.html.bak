@@ -30,6 +30,7 @@
 <body>
 <h1>Meme Mashup</h1>
 <p class="text-center">My very own Meme Mashup!</p>
+<br>
 <img src="meme mashup-1.png" class="mx-auto d-block" alt="meme" width="500" height="600">
 </body>
 </html>

@@ -27,7 +27,7 @@
 </ul> 
 </nav>
 <h1>Glitch Images</h1>
-<p class="text-center">Here are my glitch images!</p>
+<p>Here are my glitch images!</p>
 <img src="glitch 1.jpg" alt="glitch1" width="900" height="600">
 <br>
 <img src="glitch 2.jpg" alt="glitch2" width="900" height="600">
