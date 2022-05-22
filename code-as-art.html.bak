@@ -15,17 +15,36 @@
 <nav class="navbar navbar-expand-sm bg-light navbar-light">
  <ul class="navbar-nav">
  	<li class="nav-item"><a class="nav-link" href="index.html">home</a></li>
-	<li class="nav-item"><a class="nav-link" href="glitch.html">glitch</a></li>
+	<li class="nav-item"><a class="nav-link" href="Glitch.html">glitch</a></li>
 	<li class="nav-item"><a class="nav-link" href="meme.html">meme</a></li>
-    <li class="nav-item"><a class="nav-link" href="minecraft.html">blender/zbrush</a>      </li>
-	 <li class="nav-item"><a class="nav-link" href="3d.html">3d-print</a></li>
+    <li class="nav-item"><a class="nav-link" href="minecraft.html">zbrush</a>      </li>
+	 <li class="nav-item"><a class="nav-link" href="3d.html">blender</a></li>
     <li class="nav-item"><a class="nav-link" href="netart.html">net-art</a></li>
     <li class="nav-item"><a class="nav-link" href="code-as-art.html">code art</a></li>
+	<li class="nav-item"><a class="nav-link" href="final.html">final</a></li>
 	<li class="nav-item"><a class="nav-link" href="newabout.html">about</a></li>
+	
 </ul> 
 </nav>
 <h1> Code Art</h1>
-
-
+ <p class="text-center">SPADE COCO AND ADAIN Projects which was an enjoyable experience to use an AI tool to make art. I referenced the movie 'Spider-man 2' and "Toy Story 3"</p>
+ <br>
+ <p class="text-center">Spade coco project.</p>
+<img src="download.png" class="mx-auto d-block" alt="dowanload" width="800" height="600">
+<br>
+<img src="SPADE-COCO.jpeg" class="mx-auto d-block" alt="spade" width="800" height="600">
+<br>
+ <p class="text-center">ADAIN Project.</p>
+ <br>
+<img src="HD-wallpaper-lotso-bear-cute.jpg" class="mx-auto d-block" alt="original" width="800" height="600">
+<br>
+ <p class="text-center">(Original Picture.)</p>
+ <br>
+<img src="AdaIN-Style-Transfer.png" class="mx-auto d-block" alt="ad1" width="800" height="600">
+<br>
+<img src="AdaIN-Style-Transfer (1).png" class="mx-auto d-block" alt="ad1" width="800" height="600">
+<br>
+<img src="AdaIN-Style-Transfer (2).png" class="mx-auto d-block" alt="ad1" width="800" height="600">
+<br>
 </body>
 </html>
