@@ -2,7 +2,8 @@
 <html>
 <head>
 <title>Leo</title>
-<div class="container-fluid p-5 bg-danger text-warning text-center">
+<body style="background-color:dimgray;">
+<div class="container-fluid p-5 bg-dark text-white text-center">
   <h1>Leo Yan's Portfolio</h1>
   <p></p> 
 </div>
@@ -12,27 +13,27 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
 </head>
 <body>
-<nav class="navbar navbar-expand-sm bg-light navbar-light">
+<h1 style="background-color:IndianRed;">Home</h1>
+<nav class="navbar navbar-expand-sm bg-secondary navbar-light">
  <ul class="navbar-nav">
- 	<li class="nav-item"><a class="nav-link" href="index.html">home</a></li>
+ 	<li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
 	<li class="nav-item"><a class="nav-link" href="Glitch.html">glitch</a></li>
 	<li class="nav-item"><a class="nav-link" href="meme.html">meme</a></li>
     <li class="nav-item"><a class="nav-link" href="minecraft.html">zbrush</a>      </li>
-	 <li class="nav-item"><a class="nav-link" href="3d.html">blender</a></li>
+	 <li class="nav-item"><a class="nav-link" href="3d.html">Blender</a></li>
     <li class="nav-item"><a class="nav-link" href="netart.html">net-art</a></li>
     <li class="nav-item"><a class="nav-link" href="code-as-art.html">code art</a></li>
-	<li class="nav-item"><a class="nav-link" href="Final.html">final</a></li>
-	<li class="nav-item"><a class="nav-link" href="newabout.html">about</a></li>
+	<li class="nav-item"><a class="nav-link" href="Final.html">Final</a></li>
+	<li class="nav-item"><a class="nav-link" href="newabout.html">About</a></li>
 	
 </ul> 
 </nav>
-<img src="logo.jpg" class="mx-auto d-block" alt="logo" width="600" height="600">
 
-<h1>Spotlighted Project : Final</h1>
-<p class="text-center">For my final, I wanted to incorporate a 3D room in Blender by making a gaming room.</p>
-<img src="DMA spring final finally.png" class="mx-auto d-block" alt="final" width="1680" height="1050"> 
+<h1 style="text-align:center;">Spotlighted Project: Art 74 Final Project</h1>
+<p class="text-center">For my final for Art 74, I wanted to incorporate a 3D room in Blender by making a gaming room.</p>
+<img src="DMA spring final finally.png" class="mx-auto d-block" alt="final" width="1250" height="800"> 
 <br>
-<img src="DMA final spring 2.png" class="mx-auto d-block" alt="final POV" width="1680" height="1050"> 
+<img src="DMA final spring 2.png" class="mx-auto d-block" alt="final POV" width="1250" height="800"> 
 
 </body>
 </html>
