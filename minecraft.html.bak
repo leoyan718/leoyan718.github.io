@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Video Projects</title>
+<title>Leo Yan's Portfolio- Video Projects</title>
 <body style="background-color:dimgray;">
   <p></p> 
 </div>
@@ -16,13 +16,12 @@
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
  <ul class="navbar-nav">
  	<li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
-	<li class="nav-item"><a class="nav-link" href="Glitch.html">Classroom Project</a></li>
 	<li class="nav-item"><a class="nav-link" href="meme.html">DS Silhouettes</a></li>
+	    <li class="nav-item"><a class="nav-link" href="code-as-art.html">code art</a></li>
     <li class="nav-item"><a class="nav-link" href="minecraft.html">Video Projects</a>      </li>
-	 <li class="nav-item"><a class="nav-link" href="3d.html">blender</a></li>
-    <li class="nav-item"><a class="nav-link" href="netart.html">net-art</a></li>
-    <li class="nav-item"><a class="nav-link" href="code-as-art.html">code art</a></li>
+	 <li class="nav-item"><a class="nav-link" href="3d.html">Small Blender Projects</a></li>
 	<li class="nav-item"><a class="nav-link" href="Final.html">Final</a></li>
+		<li class="nav-item"><a class="nav-link" href="Glitch.html">*NEW* Classroom Project</a></li>
 	<li class="nav-item"><a class="nav-link" href="newabout.html">about</a></li>
 	
 </ul> 
@@ -44,7 +43,7 @@ src="https://www.youtube.com/embed/ADUTfD5R1qA">
 </iframe>
 <p style="font-family:lucida grande,monospace;color:skyblue;text-align:center;">(Cold Version)</p>
 <center><iframe width="900" height="500"
-src="https://www.youtube.com/embed/">
+src="https://www.youtube.com/embed/hXu_EL_p-Rw">
 </iframe>
 
 <h1>2003</h1>
