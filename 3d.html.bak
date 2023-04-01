@@ -16,12 +16,12 @@
  <ul class="navbar-nav">
  	<li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
 	<li class="nav-item"><a class="nav-link" href="meme.html">DS Silhouettes</a></li>
-	    <li class="nav-item"><a class="nav-link" href="code-as-art.html">code art</a></li>
+	    <li class="nav-item"><a class="nav-link" href="code-as-art.html">ZBrush</a></li>
     <li class="nav-item"><a class="nav-link" href="minecraft.html">Video Projects</a>      </li>
 	 <li class="nav-item"><a class="nav-link" href="3d.html">Small Blender Projects</a></li>
 	<li class="nav-item"><a class="nav-link" href="Final.html">Final</a></li>
 		<li class="nav-item"><a class="nav-link" href="Glitch.html">*NEW* Classroom Project</a></li>
-	<li class="nav-item"><a class="nav-link" href="newabout.html">about</a></li>
+	<li class="nav-item"><a class="nav-link" href="newabout.html">About</a></li>
 	
 </ul> 
 </nav>
