@@ -2,6 +2,7 @@
 <html>
 <head>
 <title>Leo Yan's Portfolio- About</title>
+<body style="background-color:dimgray;">
   <p></p> 
 </div>
   <meta charset="utf-8">
@@ -10,7 +11,9 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
 </head>
 <body>
-<nav class="navbar navbar-expand-sm bg-light navbar-light">
+<h1 style="font-family:lucida grande,monospace;text-align:center;color:Black;background-color:Khaki;"></h1>
+<!-- Black with white text -->
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
  <ul class="navbar-nav">
  	<li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
 	<li class="nav-item"><a class="nav-link" href="meme.html">DS Silhouettes</a></li>
@@ -19,14 +22,13 @@
 	 <li class="nav-item"><a class="nav-link" href="3d.html">Small Blender Projects</a></li>
 	<li class="nav-item"><a class="nav-link" href="Final.html">Final</a></li>
 		<li class="nav-item"><a class="nav-link" href="Glitch.html">*NEW* Classroom Project</a></li>
-	<li class="nav-item"><a class="nav-link" href="newabout.html">about</a></li>
+	<li class="nav-item"><a class="nav-link" href="newabout.html">About</a></li>
 
 	
 </ul> 
 </nav>
-<h1> About</h1>
-<p class="text-center">Leo is a first year student at SJSU and enrolled as a DMA major. He has long time experience with Photoshop, Illustrator, and video editing. He started being interested in Digital art during his highschool years as he signed up for Digital Media Design. And he is currently interested in working in Blender. </p>
-<img src="IMG_3505.jpg" class="mx-auto d-block" alt="me" width="395" height="500">
+<h1 style="background-color:crimson;font-family:lucida grande,monospace;text-align:center;color:white;"">About</h1>
+<p style="font-family:lucida grande,monospace;color:white;text-align:center;">Leo is a</p>
 <br>
 
 </body>
