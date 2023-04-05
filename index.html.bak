@@ -16,9 +16,9 @@
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
  <ul class="navbar-nav">
  	<li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
-	<li class="nav-item"><a class="nav-link" href="meme.html">DS Silhouettes</a></li>
+	<li class="nav-item"><a class="nav-link" href="DS Silhouettes.html">DS Silhouettes</a></li>
 		<li class="nav-item"><a class="nav-link" href="2d and 3d.html">2D & 3D</a></li>
-	    <li class="nav-item"><a class="nav-link" href="code-as-art.html">ZBrush</a></li>
+	    <li class="nav-item"><a class="nav-link" href="zbrush.html">ZBrush</a></li>
     <li class="nav-item"><a class="nav-link" href="minecraft.html">Video Projects</a>      </li>
 	 <li class="nav-item"><a class="nav-link" href="3d.html">Small Blender Projects</a></li>
 	<li class="nav-item"><a class="nav-link" href="Final.html">Final</a></li>
@@ -29,6 +29,7 @@
 </nav>
 
 <h1 style="background-color:crimson;font-family:lucida grande,monospace;text-align:center;color:white;"">Leo Yan's Portfolio</h1>
+<br>
 <br>
 <h1 style="font-family:lucida grande,monospace;text-align:center;color:White;"">Spotlighted Project: Art 74 Final Project</h1>
 <p style="font-family:lucida grande,monospace;color:coral;text-align:center;">Click on the image below to view the initial project page!</p>
