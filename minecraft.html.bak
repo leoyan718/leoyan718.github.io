@@ -17,25 +17,29 @@
  <ul class="navbar-nav">
  	<li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
 	<li class="nav-item"><a class="nav-link" href="meme.html">DS Silhouettes</a></li>
+			<li class="nav-item"><a class="nav-link" href="2d and 3d.html">2D & 3D</a></li>
 	    <li class="nav-item"><a class="nav-link" href="code-as-art.html">ZBrush</a></li>
     <li class="nav-item"><a class="nav-link" href="minecraft.html">Video Projects</a>      </li>
 	 <li class="nav-item"><a class="nav-link" href="3d.html">Small Blender Projects</a></li>
 	<li class="nav-item"><a class="nav-link" href="Final.html">Final</a></li>
-		<li class="nav-item"><a class="nav-link" href="Glitch.html">*NEW* Classroom Project</a></li>
+		<li class="nav-item"><a class="nav-link" href="Glitch.html">*NEW* Classroom</a></li>
 	<li class="nav-item"><a class="nav-link" href="newabout.html">About</a></li>
 	
 </ul> 
 </nav>
 <h1 style="background-color:crimson;font-family:lucida grande,monospace;text-align:center;color:white;"">Video Projects</h1>
-<center><h1>Present Time</h1>
-<p style="font-family:lucida grande,monospace;color:white;text-align:center;">A short edit I made while recording my day in a life at SJSU. (Made from Adobe Premier Pro.)</p>
+<br>
+<br>
+<h1 style="font-family:lucida grande,monospace;color:white;text-align:center;">Present Time</h1>
+<p style="font-family:lucida grande,monospace;color:white;text-align:center;">A short edit I made while recording my day in a life at SJSU. (Made in Adobe Premier Pro.)</p>
 <br>
 <center><iframe width="900" height="500"
 src="https://www.youtube.com/embed/lKB3d7Gl4u0">
 </iframe>
 </head>
-<h1>Hot & Cold</h1>
-<p style="font-family:lucida grande,monospace;color:white;text-align:center;">Two contrasting videos with the same sound but a goal of having two different feelings. (Made from Adobe Premier Pro.)</p>
+<br>
+<h1 style="font-family:lucida grande,monospace;color:white;text-align:center;">Hot & Cold</h1>
+<p style="font-family:lucida grande,monospace;color:white;text-align:center;">Two contrasting videos with the same sound but with the goal of having two completely different feelings. (Made in Adobe Premier Pro.)</p>
 </head>
 <p style="font-family:lucida grande,monospace;color:Coral;text-align:center;">(Hot Version)</p>
 <center><iframe width="900" height="500"
@@ -46,10 +50,11 @@ src="https://www.youtube.com/embed/ADUTfD5R1qA">
 src="https://www.youtube.com/embed/hXu_EL_p-Rw">
 </iframe>
 
-<h1>2003</h1>
-<p style="font-family:lucida grande,monospace;color:white;text-align:center;">My Final Project for ART75 where I made a collage of my childhood memories recorded by my dad which showed my growth throughout the years.</p>
-<p style="font-family:lucida grande,monospace;color:white;text-align:center;">I wanted a way to express how video has been with me for so long ever since I was little and how important it is for our memories.</p>
-<p style="font-family:lucida grande,monospace;color:white;text-align:center;">(Made from Adobe Premier Pro.)</p>
+
+<h1 style="font-family:lucida grande,monospace;color:white;text-align:center;">2003</h1>
+<p style="font-family:lucida grande,monospace;color:white;text-align:center;">My Final Project for ART-75 where I made a collage of my childhood memories recorded by my dad that showed my growth throughout the years.</p>
+<p style="font-family:lucida grande,monospace;color:white;text-align:center;">I wanted a way to express how video has been with me for so long ever since I was little and how important it is for our memories since it is something that could never be remade again.</p>
+<p style="font-family:lucida grande,monospace;color:white;text-align:center;">(Made in Adobe Premier Pro.)</p>
 <center><iframe width="900" height="500"
 src="https://www.youtube.com/embed/qkcoFPoR2t0">
 </iframe>

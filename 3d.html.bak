@@ -16,25 +16,26 @@
  <ul class="navbar-nav">
  	<li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
 	<li class="nav-item"><a class="nav-link" href="meme.html">DS Silhouettes</a></li>
+			<li class="nav-item"><a class="nav-link" href="2d and 3d.html">2D & 3D</a></li>
 	    <li class="nav-item"><a class="nav-link" href="code-as-art.html">ZBrush</a></li>
     <li class="nav-item"><a class="nav-link" href="minecraft.html">Video Projects</a>      </li>
 	 <li class="nav-item"><a class="nav-link" href="3d.html">Small Blender Projects</a></li>
 	<li class="nav-item"><a class="nav-link" href="Final.html">Final</a></li>
-		<li class="nav-item"><a class="nav-link" href="Glitch.html">*NEW* Classroom Project</a></li>
+		<li class="nav-item"><a class="nav-link" href="Glitch.html">*NEW* Classroom</a></li>
 	<li class="nav-item"><a class="nav-link" href="newabout.html">About</a></li>
 	
 </ul> 
 </nav>
 <h1 style="background-color:crimson;font-family:lucida grande,monospace;text-align:center;color:white;"">Small Blender Projects</h1>
 <h1 style="font-family:lucida grande,monospace;color:#6FFBE9;text-align:center;">UFO</h1>
-<p style="font-family:lucida grande,monospace;color:white;text-align:center;">An UFO ship made simply out of a sculpted plate model along with adjustments in shape, color, emission, and etc.</p>
+<p style="font-family:lucida grande,monospace;color:white;text-align:center;">An UFO ship made simply out of a sculpted plate model along with adjustments in shape, color, emission, and etc. (Made in Blender)</p>
 <img src="ufo ship blender.png" class="mx-auto d-block" alt="ufo" width="900" height="500"> 
 <br>
-<h1 style="font-family:lucida grande,monospace;color:#4299FF;text-align:center;">Campsite</h1>
-<p style="font-family:lucida grande,monospace;color:white;text-align:center;">My first Blender environment render I made of a low-poly campsite. Rendered in Blender then edited in Photoshop.</p>
+<h1 style="font-family:lucida grande,monospace;color:#DAEEFF;text-align:center;">Campsite</h1>
+<p style="font-family:lucida grande,monospace;color:white;text-align:center;">My first Blender environment render I made of a low-poly campsite. (Made in Blender then edited in Photoshop)</p>
 <img src="environment final render -1.png" class="mx-auto d-block" alt="environment" width="900" height="500">
 <br>
-<h1 style="font-family:lucida grande,monospace;color:#FFD800;text-align:center;">Fortnite Render</h1>
+<h1 style="font-family:lucida grande,monospace;color:#FCFFDA;text-align:center;">Fortnite Render</h1>
 <p style="font-family:lucida grande,monospace;color:white;text-align:center;">Fortnite character models posed through character rigging in Blender then edited in Photoshop.</p>
 <p style="font-family:lucida grande,monospace;color:white;text-align:center;">I originally made this as a thumbnail for a YouTube video.</p>
 <img src="mp_first_vid_thumbnail.jpg" class="mx-auto d-block" alt="environment" width="900" height="500">

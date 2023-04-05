@@ -17,24 +17,27 @@
  <ul class="navbar-nav">
  	<li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
 	<li class="nav-item"><a class="nav-link" href="meme.html">DS Silhouettes</a></li>
+			<li class="nav-item"><a class="nav-link" href="2d and 3d.html">2D & 3D</a></li>
 	    <li class="nav-item"><a class="nav-link" href="code-as-art.html">ZBrush</a></li>
     <li class="nav-item"><a class="nav-link" href="minecraft.html">Video Projects</a>      </li>
 	 <li class="nav-item"><a class="nav-link" href="3d.html">Small Blender Projects</a></li>
 	<li class="nav-item"><a class="nav-link" href="Final.html">Final</a></li>
-		<li class="nav-item"><a class="nav-link" href="Glitch.html">*NEW* Classroom Project</a></li>
+		<li class="nav-item"><a class="nav-link" href="Glitch.html">*NEW* Classroom</a></li>
 	<li class="nav-item"><a class="nav-link" href="newabout.html">About</a></li>
 	
 </ul> 
 </nav>
-<h1 style="background-color:crimson;font-family:lucida grande,monospace;text-align:center;color:white;"">Classroom (Day & Night) Blender Project</h1>
+<h1 style="background-color:crimson;font-family:lucida grande,monospace;text-align:center;color:white;"">Classroom (Day & Night)</h1>
 <p style="font-family:lucida grande,monospace;color:white;text-align:center;">A small blender project I did of another room, but this time was a classroom.</p>
 <p style="font-family:lucida grande,monospace;color:white;text-align:center;">(Both day and night versions are included)</p>
 <p style="font-family:lucida grande,monospace;color:white;text-align:center;"> 
 I sculpted all the objects from scratch and made this in Blender.</p>
+<h1 style="font-family:lucida grande,monospace;color:#B0FFAD;text-align:center;">Classroom (Day)</h1>
 <img src="classroom shot 2.png" class="mx-auto d-block" alt="classroom1" width="1180" height="700">
 <br>
 <img src="classroom shot 1.png" class="mx-auto d-block" alt="classroom2" width="1180" height="650">
 <br>
+<h1 style="font-family:lucida grande,monospace;color:#D1EFFF;text-align:center;">Classroom (Night)</h1>
 <img src="classroom shot3.png" class="mx-auto d-block" alt="classroom night" width="1180" height="650">
 <br>
 <img src="classroom shot4.png" class="mx-auto d-block" alt="classroom night 2" width="1180" height="650">

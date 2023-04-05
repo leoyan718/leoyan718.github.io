@@ -17,23 +17,33 @@
  <ul class="navbar-nav">
  	<li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
 	<li class="nav-item"><a class="nav-link" href="meme.html">DS Silhouettes</a></li>
+			<li class="nav-item"><a class="nav-link" href="2d and 3d.html">2D & 3D</a></li>
 	    <li class="nav-item"><a class="nav-link" href="code-as-art.html">ZBrush</a></li>
     <li class="nav-item"><a class="nav-link" href="minecraft.html">Video Projects</a>      </li>
 	 <li class="nav-item"><a class="nav-link" href="3d.html">Small Blender Projects</a></li>
 	<li class="nav-item"><a class="nav-link" href="Final.html">Final</a></li>
-		<li class="nav-item"><a class="nav-link" href="Glitch.html">*NEW* Classroom Project</a></li>
+		<li class="nav-item"><a class="nav-link" href="Glitch.html">*NEW* Classroom</a></li>
 	<li class="nav-item"><a class="nav-link" href="newabout.html">About</a></li>
 
-	
+
 </ul> 
 </nav>
 <h1 style="background-color:crimson;font-family:lucida grande,monospace;text-align:center;color:white;"">About</h1>
+  <div class="m-5 pb-5 "></div>	
+<br>
+<h1 style="font-family:lucida grande,monospace;color:white;text-align:center;">Biography</h1>
+<br>
+ <div class="mx-5 fs-5 text-white text-center">Leo Yan is from the Bay Area and is a 2nd year student of SJSU planning to major in Digital Media Art. He discovered his interest in digital media in high school ever since he enrolled in a Computer Art class during freshman year. In that class, he learned about the basics of digital art including how to use softwares such as Photoshop and iMovie. From then throughout his sophomore to senior years, he participated in the Digital Media Design Academy in his school learning all sorts of new things. He discovered many applications and softwares to make art throughout the years. But he was introduced to Blender during the lockdown pandemic of 2020 and was interested in pursuing that software. He started using Blender to make thumbnails and pose video game models through character rigging. And ever since then and his freshman year of college where he was taught more things he never knew about Blender, he knew it was his favorite software to work in yet. 
+</div>
 <br>
 <br>
 <br>
 <br>
-<p style="font-family:lucida grande,monospace;color:white;text-align:center;">Leo is a</p>
 <br>
+<h1 style="font-family:lucida grande,monospace;color:white;text-align:center;">Artist Statement</h1>
+ <div class="mx-5 fs-5 text-white text-center">My work explores all types of digital media. Most of us spend our lives nowadays staring at a screen due to how technology could be so important and also convenient for our everyday lives. If I could give a rough estimate, I would have to say I spend about a good amount of my time on a computer daily whether it be for school or just entertainment purposes.
+My designs are inspired by video games and other media most of the time since I grew up playing an excessive amount of video games. Those ideas from the games I have played inspired me in a way that made me want to recreate some elements from those games. Some of those elements include the design of character models and the general atmosphere of the environment that impacts the ambience of many different games. The goal with my work is to bring all the ideas I have gathered from my experience as a longtime gamer and implement those ideas into my own personal creations.
+
 
 </body>
 </html>
