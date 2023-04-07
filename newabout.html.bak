@@ -16,13 +16,13 @@
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
  <ul class="navbar-nav">
  	<li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
-	<li class="nav-item"><a class="nav-link" href="meme.html">DS Silhouettes</a></li>
-			<li class="nav-item"><a class="nav-link" href="2d and 3d.html">2D & 3D</a></li>
-	    <li class="nav-item"><a class="nav-link" href="code-as-art.html">ZBrush</a></li>
-    <li class="nav-item"><a class="nav-link" href="minecraft.html">Video Projects</a>      </li>
+	<li class="nav-item"><a class="nav-link" href="DS Silhouettes.html">DS Silhouettes</a></li>
+		<li class="nav-item"><a class="nav-link" href="2d and 3d.html">2D & 3D</a></li>
+	    <li class="nav-item"><a class="nav-link" href="zbrush.html">ZBrush</a></li>
+    <li class="nav-item"><a class="nav-link" href="video projects.html">Video Projects</a>      </li>
 	 <li class="nav-item"><a class="nav-link" href="3d.html">Small Blender Projects</a></li>
 	<li class="nav-item"><a class="nav-link" href="Final.html">Final</a></li>
-		<li class="nav-item"><a class="nav-link" href="Glitch.html">*NEW* Classroom</a></li>
+		<li class="nav-item"><a class="nav-link" href="classroom.html">*NEW* Classroom</a></li>
 	<li class="nav-item"><a class="nav-link" href="newabout.html">About</a></li>
 
 
@@ -40,8 +40,13 @@
 <br>
 <br>
 <h1 style="font-family:lucida grande,monospace;color:white;text-align:center;">Artist Statement</h1>
- <div class="mx-5 fs-5 text-white text-center">My work explores all types of digital media. Most of us spend our lives nowadays staring at a screen due to how technology could be so important and also convenient for our everyday lives. If I could give a rough estimate, I would have to say I spend about a good amount of my time on a computer daily whether it be for school or just entertainment purposes.
-My designs are inspired by video games and other media most of the time since I grew up playing an excessive amount of video games. Those ideas from the games I have played inspired me in a way that made me want to recreate some elements from those games. Some of those elements include the design of character models and the general atmosphere of the environment that impacts the ambience of many different games. The goal with my work is to bring all the ideas I have gathered from my experience as a longtime gamer and implement those ideas into my own personal creations.
+
+<div class="mx-5 fs-5 text-white text-center">My work explores all types of digital media. Most of us spend our lives nowadays staring at a screen due to how technology could be so important and also convenient for our everyday lives. If I could give a rough estimate, I would have to say I spend about a good amount of my time on a computer daily whether it be for school or just entertainment purposes. My designs are inspired by video games and other media mostly since I grew up playing lots and lots of video games. Those ideas from the games I have played inspired me in a way that makes me want to recreate some elements from the games. Some of those elements include the design of character models and the general atmosphere of the environment that impacts the ambiance of many different games. 
+<div class="mx-5 fs-5 text-white text-center">	I find making art in 3D programs such as Blender allows me to do so much more and expand on my creativity. I believe that 3D art is really special compared to others since it allows me to create more detailed and almost realistic art that my audience could look at. Some important factors in which I believe makes 3D art special is the customization of lighting, texture, and models in a scene. I always use these three main factors in each of my works in order to display a scene that looks realistic and gives off really good feelings.
+<div class="mx-5 fs-5 text-white text-center">	With that being said, most of my work in my portfolio is focused on 3D environments made in Blender. The main reason why I prefer to focus my pieces on environments is because I wanted to make imaginary places where I would see myself being in it and hopefully the viewer would have the same experience as well when looking at my renders. A lot can be described in a room when said, but it is so much better to visually see all the details and actually feel like you are in that room when looking at the pieces. In my pieces I also like to make different versions of them in order for more of a variety. Those different versions of my work are not only slightly different, but they also give off a completely different feeling. It’s like rearranging your bedroom for the first time in a while. Your bedroom would suddenly feel like a completely different room that you are unfamiliar with even though you are still in the same room.
+<div class="mx-5 fs-5 text-white text-center">Furthermore, I am always looking for ways to improve my work and expand on my creative skill sets.The goal with my work is to bring all the ideas I have gathered from my experience as a longtime gamer and implement those ideas into my own personal creations.
+
+
 
 
 </body>
