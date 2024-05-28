@@ -21,14 +21,15 @@
     <li class="nav-item"><a class="nav-link" href="video projects.html">Video Projects</a>      </li>
 	 <li class="nav-item"><a class="nav-link" href="3d.html">Small Blender Projects</a></li>
 	<li class="nav-item"><a class="nav-link" href="Final.html">Final</a></li>
-		<li class="nav-item"><a class="nav-link" href="classroom.html">*NEW* Classroom</a></li>
+		<li class="nav-item"><a class="nav-link" href="classroom.html">Classroom</a></li>
 	<li class="nav-item"><a class="nav-link" href="newabout.html">About</a></li>
 	
 </ul> 
 </nav>
 <h1 style="background-color:crimson;font-family:lucida grande,monospace;text-align:center;color:white;"">Small Blender Projects</h1>
 <h1 style="font-family:lucida grande,monospace;color:#DAFFF8;text-align:center;">UFO</h1>
-<p style="font-family:lucida grande,monospace;color:white;text-align:center;">An UFO ship made simply out of a sculpted plate model along with adjustments in shape, color, emission, and etc. (Made in Blender)(1920x1080)</p>
+<p style="font-family:lucida grande,monospace;color:white;text-align:center;">An UFO ship made simply out of a sculpted plate model along with adjustments in shape, color, emission, and etc. (Made in Blender)</p>
+<p style="font-family:lucida grande,monospace;color:white;text-align:center;"> (1920x1080)</p>
 <img src="ufo ship blender.png" class="mx-auto d-block" alt="ufo" width="900" height="500"> 
 <br>
 <h1 style="font-family:lucida grande,monospace;color:#DAEEFF;text-align:center;">Campsite</h1>

@@ -22,7 +22,7 @@
     <li class="nav-item"><a class="nav-link" href="video projects.html">Video Projects</a>      </li>
 	 <li class="nav-item"><a class="nav-link" href="3d.html">Small Blender Projects</a></li>
 	<li class="nav-item"><a class="nav-link" href="Final.html">Final</a></li>
-		<li class="nav-item"><a class="nav-link" href="classroom.html">*NEW* Classroom</a></li>
+		<li class="nav-item"><a class="nav-link" href="classroom.html">Classroom</a></li>
 	<li class="nav-item"><a class="nav-link" href="newabout.html">About</a></li>
 	
 </ul> 
@@ -31,7 +31,7 @@
 <br>
 <br>
 <h1 style="font-family:lucida grande,monospace;color:#C0FFFC;text-align:center;">Zbrush Model #1</h1>
- <p style="font-family:lucida grande,monospace;color:white;text-align:center;">My first Zbrush project which I recreated a 3D head model of a Demogorgon, a faceless creature, from the TV show Stranger Things. (1280 x 720)</p>
+ <p style="font-family:lucida grande,monospace;color:white;text-align:center;">My first Zbrush project which I recreated a 3D head model of a Demogorgon, a faceless creature, from the TV show Stranger Things.</p>
 	  <p style="font-family:lucida grande,monospace;color:white;text-align:center;">(1280x720)</p>
 <img src="demogorgon.png" class="mx-auto d-block" alt="demo" width="910" height="700">
 <img src="demo 2.png" class="mx-auto d-block" alt="demo2" width="910" height="700">
