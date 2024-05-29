@@ -23,6 +23,7 @@
 		<li class="nav-item"><a class="nav-link" href="classroom.html">Classroom</a></li>
 				<li class="nav-item"><a class="nav-link" href="2d and 3d.html">Serenity</a></li>
 	<li class="nav-item"><a class="nav-link" href="newabout.html">About</a></li>
+
 	
 </ul> 
 </nav>
@@ -37,11 +38,20 @@
 <p style="font-family:lucida grande,monospace;color:white;text-align:center;"> (1920x1080)</p>
 <img src="environment final render -1.png" class="mx-auto d-block" alt="environment" width="900" height="500">
 <br>
-<h1 style="font-family:lucida grande,monospace;color:#FCFFDA;text-align:center;">Fortnite Render</h1>
+
+<h1 style="font-family:lucida grande,monospace;color:#FCFFDA;text-align:center;">Fortnite Render #1</h1>
 <p style="font-family:lucida grande,monospace;color:white;text-align:center;">Fortnite character models posed through character rigging in Blender then edited in Photoshop.</p>
 <p style="font-family:lucida grande,monospace;color:white;text-align:center;">I originally made this as a thumbnail for a YouTube video.</p>
 <p style="font-family:lucida grande,monospace;color:white;text-align:center;"> (1920x1080)</p>
 <img src="mp_first_vid_thumbnail.jpg" class="mx-auto d-block" alt="environment" width="900" height="500">
+<br>
+<h1 style="font-family:lucida grande,monospace;color:#FCFFDA;text-align:center;">Fortnite Render #2</h1>
+<p style="font-family:lucida grande,monospace;color:white;text-align:center;">Part 2 of Fortnite character models posed through character rigging in Blender then edited in Photoshop.</p>
+<p style="font-family:lucida grande,monospace;color:white;text-align:center;"> (1920x1080)</p>
+<img src="fortnite_render2.jpg" class="mx-auto d-block" alt="environment" width="900" height="500">
+<br>
+<br>
+
 <br>
 </body>
 </html>
