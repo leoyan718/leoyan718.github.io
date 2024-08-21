@@ -22,7 +22,7 @@
 	<li class="nav-item"><a class="nav-link" href="Final.html">Final</a></li>
 		<li class="nav-item"><a class="nav-link" href="classroom.html">Classroom</a></li>
 				<li class="nav-item"><a class="nav-link" href="2d and 3d.html">Serenity</a></li>
-				<li class="nav-item"><a class="nav-link" href="coding.html">Javascript (p5js)</a></li>
+				<li class="nav-item"><a class="nav-link" href="coding.html">Javascript (p5.js)</a></li>
 	<li class="nav-item"><a class="nav-link" href="newabout.html">About</a></li>
 
 	
@@ -51,6 +51,21 @@
 <p style="font-family:lucida grande,monospace;color:white;text-align:center;">Part 2 of Fortnite character models posed through character rigging in Blender then edited in Photoshop.</p>
 <p style="font-family:lucida grande,monospace;color:white;text-align:center;"> (1920x1080)</p>
 <img src="fortnite_render2.jpg" class="mx-auto d-block" alt="environment" width="900" height="500">
+<br>
+<h1 style="font-family:lucida grande,monospace;color:#DAEEFF;text-align:center;">Blue Bear</h1>
+<p style="font-family:lucida grande,monospace;color:white;text-align:center;">A character model I made of a worn out blue teddy bear.</p>
+<img src="bear.png" class="mx-auto d-block" alt="environment" width="700" height="600">
+<br>
+<h1 style="font-family:lucida grande,monospace;color:#DAEEFF;text-align:center;">Lost Friend</h1>
+<p style="font-family:lucida grande,monospace;color:white;text-align:center;">A full scene rendered using the blue bear that I modeled previously.
+<img src="final project render.png" class="mx-auto d-block" alt="environment" width="700" height="600">
+<br>
+<h1 style="font-family:lucida grande,monospace;color:#DAFFF8;text-align:center;">2>1</h1>
+<p style="font-family:lucida grande,monospace;color:white;text-align:center;">A brand new scene of two new characters that I modeled together.
+<img src="clov1.png" class="mx-auto d-block" alt="environment" width="800" height="500">
+
+
+
 <br>
 <br>
 

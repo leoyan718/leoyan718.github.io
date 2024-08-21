@@ -23,7 +23,7 @@
 	<li class="nav-item"><a class="nav-link" href="Final.html">Final</a></li>
 		<li class="nav-item"><a class="nav-link" href="classroom.html">Classroom</a></li>
 				<li class="nav-item"><a class="nav-link" href="2d and 3d.html">Serenity</a></li>
-				<li class="nav-item"><a class="nav-link" href="coding.html">Javascript (p5js)</a></li>
+				<li class="nav-item"><a class="nav-link" href="coding.html">Javascript (p5.js)</a></li>
 	<li class="nav-item"><a class="nav-link" href="newabout.html">About</a></li>
 
 	
@@ -35,7 +35,7 @@
 <br>
 <h1 style="font-family:lucida grande,monospace;text-align:center;color:White;"">Spotlighted Project: Art 74 Final Project</h1>
 <p style="font-family:lucida grande,monospace;color:coral;text-align:center;">Click on the image below to view the initial project page!</p>
-<a href="Final.html"><img src="DMA spring final finally.png" class="mx-auto d-block" alt="final" width="1450" height="900"> 
+<a href="Final.html"><img src="clov1" class="mx-auto d-block" alt="final" width="1450" height="900"> 
 <br>
 
 

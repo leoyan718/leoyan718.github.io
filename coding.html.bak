@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/p5@1.9.4/lib/p5.js"></script>
   <style>
     .center-text {
       text-align: center;
@@ -46,7 +47,7 @@
   <div class="center-text">
     <a href="https://youtu.be/RRRWE8OQGIk?si=6nVCeJvTDO2EVb0S" > <img src="M2.jpg" class="mx-auto d-block" width="800" height="500"> </a>
     <br>
-    <a href="Project%202music.mp4" class="center-text">Click Here to Watch Video for Project 2 (YouTube link)</a> <br>
+    <a href="https://youtu.be/RRRWE8OQGIk?si=6nVCeJvTDO2EVb0S" class="center-text">Click Here to Watch Video for Project 2 (YouTube link)</a> <br>
     <a href="p5_code/Project2/sketch.js" class="center-text">Click Here to see code</a> <br>
   </div>
   <br>
@@ -61,5 +62,31 @@
   I also used the recording function provided to us in class to make the final video. And overall, after experimenting for a long time, I was happy with the results!
   <br>
   <br>
+  <br>
+  <br>
+  <h1 style="font-family:lucida grande,monospace;color:#63C5DA;text-align:center;">The Final Run</h1>
+  <br>
+  <div class="center-text">
+    <a href="p5_code/FINAL/index.html" > <img src="finalrun.png" class="mx-auto d-block" width="1000" height="500"> </a>
+    <br>
+    <a href="https://youtu.be/RRRWE8OQGIk?si=6nVCeJvTDO2EVb0S" class="center-text">Click Here to Watch Video for Project 2 (YouTube link)</a> <br>
+    <a href="p5_code/Project2/sketch.js" class="center-text">Click Here to see code</a> <br>
+  </div>
+  <br>
+  <br>
+
+
+<h2 style="font-family:lucida grande,monospace;color:white;text-align:center;">Artist Statement</h1>
+  <div class="mx-5 fs-5 text-white text-center">This project was based on the use of incorporating algorithmic ideas in our own work. I decided to choose the 'Multiple Particle Systems' example that I found online. 
+  I picked it because it looked like a simple  stencil however the outcome was even better than I expected. Firstly, because it had to be hands free, I had to change the example to make it usable without the press of a mouse or keyboard. 
+  I also changed them into a custom class. Secondly, I adjusted the acceleration that the example had and made the particles go in all directions. After that, I played with color, position, size, and more. I split them into 6 different phases meaning that around a certain framecount (around 150-200 per phase), 
+  it will automatically change phases and the particles will have a different reaction depending on the phase. I think the hardest part was getting the set up right for this project such as implementing the phases and trying to understand what some lines of the code meant. 
+  I also used the recording function provided to us in class to make the final video. And overall, after experimenting for a long time, I was happy with the results!
+  <br>
+  <br>
+  
+  
+  
+  
 </body>
 </html>
